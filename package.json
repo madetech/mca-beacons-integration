@@ -26,7 +26,7 @@
   "homepage": "https://github.com/madetech/mca-beacons-integration#readme",
   "devDependencies": {
     "adr-log": "^2.2.0",
-    "husky": "^4.3.8",
+    "husky": "^7.0.1",
     "prettier": "2.3.1",
     "pretty-quick": "^3.1.1"
   },
